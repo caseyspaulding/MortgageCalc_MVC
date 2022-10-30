@@ -98,7 +98,7 @@ body {
     text-align: center;
     font-size: 4rem;
     font-weight: bold;
-    color: #2B404F;
+    color: #0366d6;
 }
 
 #loanBreakDown {
@@ -106,7 +106,7 @@ body {
 }
 
 #tableheader {
-    background-color: #2B404F;
+    background-color: darkorange;
 }
 
 #totalCost {
